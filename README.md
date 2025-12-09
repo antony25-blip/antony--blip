@@ -16,7 +16,7 @@ Feel free to check out my repositories and contribute if you'd like. Let's build
 
 ## 🌐 Connect with me
 <div align="center">
-<p align="left">
+
   <a href="http://linkedin.com/in/albinjoby" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -30,12 +30,9 @@ Feel free to check out my repositories and contribute if you'd like. Let's build
   </a>
 
   <a href="https://www.interviewbit.com/profile/antony-s-mechery/" target="_blank">
-    <img align="center" src="./interviewbit.png" alt="InterviewBit" height="30" width="40" />
-  </a>
+  <img align="center" src="https://raw.githubusercontent.com/antony25-blip/antony--blip/main/interviewbit%20.png" alt="InterviewBit" height="60" width="70" />
+</a>
 
-
-  </a>
-</p>
 
 </div>
 
